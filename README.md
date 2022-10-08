@@ -1,31 +1,31 @@
 <img align="center" src="https://discord.c99.nl/widget/theme-1/351763589746393091.png"/>
 <img align="center"
-            src="https://komarev.com/ghpvc/?username=ziuee&style=plastic"
-            alt="ziue" /> 
+            src="https://komarev.com/ghpvc/?username=rushiidev&style=plastic"
+            alt="rushiidev" /> 
             
 <hr>
-<h3 align="center">Hey! My name's ziue!</h3>
-<h3 align="center">I'm a passionate developer from Norway</h3>
+<h3 align="center">Hey! My name's Rushi!</h3>
+<h3 align="center">I'm a developer from England</h3>
 <hr>
 
 
 <h3 align="center">Trophies</h3>
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=ziuee&theme=onedark" alt="ziuee" />
+        <img src="https://github-profile-trophy.vercel.app/?username=rushiideve&theme=onedark" alt="rushiidev" />
     </a> 
 </p>
 <h3 align="center">Stats</h3>
 <p>
-    <img align="center" alt="ziuee's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ziuee&show_icons=true&hide_border=true&theme=radical" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziuee&&theme=radical" alt="ziuee" />
+    <img align="center" alt="rushiidev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ziuee&show_icons=true&hide_border=true&theme=radical" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushiidev&&theme=radical" alt="rushiidev" />
 </p>
 
 <hr>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://dev.to/ziue" target="blank"><img align="center"
+    <a href="https://dev.to/rushiidev" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
             alt="ziue" height="30" width="40" /></a>
     <a href="https://www.youtube.com/c/https://www.youtube.com/c/cheatingziue" target="blank"><img align="center"
