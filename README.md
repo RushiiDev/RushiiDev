@@ -17,7 +17,7 @@
 </p>
 <h3 align="center">Stats</h3>
 <p>
-    <img align="center" alt="rushiidev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ziuee&show_icons=true&hide_border=true&theme=radical" />
+    <img align="center" alt="rushiidev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rushiidev&show_icons=true&hide_border=true&theme=radical" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushiidev&&theme=radical" alt="rushiidev" />
 </p>
 
