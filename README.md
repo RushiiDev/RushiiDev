@@ -12,7 +12,7 @@
 <h3 align="center">Trophies</h3>
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=rushiideve&theme=onedark" alt="rushiidev" />
+        <img src="https://github-profile-trophy.vercel.app/?username=rushiidev&theme=onedark" alt="rushiidev" />
     </a> 
 </p>
 <h3 align="center">Stats</h3>
